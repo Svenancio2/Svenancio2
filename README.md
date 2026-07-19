@@ -8,11 +8,11 @@ Sou <b>Samuel Venancio</b>, Engenheiro de Dados & Analytics focado em integrar o
 
 ### 🧑‍💻 Sobre mim
 
-- 🔭 Atualmente: **Data & Analytics Engineer** — migração SAP → Databricks (Arquitetura Medallion)
-- ⚙️ Construo pipelines Bronze/Silver/Gold com **PySpark + Delta Lake**, extraindo dados via framework próprio em **ABAP** (`ZFG_DATASYNC`)
-- 📊 Modelagem dimensional, reconciliação financeira (NF-e, contas a pagar/receber) e dashboards com **Power BI (DAX avançado)**
-- 🤖 Automação de processos com **Python** (SAP GUI Scripting, CustomTkinter, SharePoint/MSAL)
-- 🎲 Hobby: desenvolvimento de plugins para VTT (Firecast — sistema Daemon/Arkanun) e analytics esportivo
+- 🔭 **Data & Analytics Engineer** — especialista em levar dados do **SAP** para o **Databricks**
+- ⚙️ Construo pipelines de dados escaláveis com **PySpark, Spark SQL e Delta Lake**
+- 📊 Transformo dados brutos em indicadores confiáveis com **Power BI e modelagem dimensional**
+- 🤖 Automatizo processos repetitivos com **Python**, liberando horas de trabalho manual
+- 🎲 Hobby: RPG de mesa 🎲
 
 ### 🛠️ Skills e Tecnologias
 
@@ -48,6 +48,7 @@ Sou <b>Samuel Venancio</b>, Engenheiro de Dados & Analytics focado em integrar o
 <p>
 <a href="https://www.linkedin.com/in/samuel-venancio-a1889a204/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.workana.com/e/d0139200f485742d2d6cb062a3565e5d"><img src="https://img.shields.io/badge/Workana-1B93C0?style=for-the-badge&logoColor=white"/></a>
+<a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
