@@ -33,9 +33,11 @@ Sou <b>Samuel Venancio</b>, Engenheiro de Dados & Analytics focado em integrar o
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Svenancio2&theme=tokyonight&hide_border=true&locale=pt_BR"/>
 
 ### 🌐 Vamos nos conectar?
+
 
 <p>
 <a href="https://www.linkedin.com/in/samuel-venancio-a1889a204/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
