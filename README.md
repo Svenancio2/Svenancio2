@@ -29,16 +29,8 @@ Sou <b>Samuel Venancio</b>, Engenheiro de Dados & Analytics focado em integrar o
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
-### 📈 GitHub Stats
-
-<p>
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Svenancio2&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Svenancio2&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"/>
 </p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Svenancio2&theme=tokyonight&hide_border=true&locale=pt_BR"/>
