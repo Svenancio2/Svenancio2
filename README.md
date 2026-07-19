@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Olá! Bem-vindo(a) 👋</h1>
 
-<!--
-**Svenancio2/Svenancio2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Sou <b>Samuel Venancio</b>, Engenheiro de Dados & Analytics focado em integrar o ecossistema <b>SAP S/4HANA</b> com arquiteturas modernas de <b>Lakehouse</b>.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 Sobre mim
+
+- 🔭 Atualmente: **Data & Analytics Engineer** — migração SAP → Databricks (Arquitetura Medallion)
+- ⚙️ Construo pipelines Bronze/Silver/Gold com **PySpark + Delta Lake**, extraindo dados via framework próprio em **ABAP** (`ZFG_DATASYNC`)
+- 📊 Modelagem dimensional, reconciliação financeira (NF-e, contas a pagar/receber) e dashboards com **Power BI (DAX avançado)**
+- 🤖 Automação de processos com **Python** (SAP GUI Scripting, CustomTkinter, SharePoint/MSAL)
+- 🎲 Hobby: desenvolvimento de plugins para VTT (Firecast — sistema Daemon/Arkanun) e analytics esportivo
+
+### 🛠️ Skills e Tecnologias
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge&logo=delta&logoColor=white"/>
+<img src="https://img.shields.io/badge/SAP%20HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+<img src="https://img.shields.io/badge/ABAP-0C4B8E?style=for-the-badge&logo=sap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+### 📈 GitHub Stats
+
+<p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Svenancio2&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Svenancio2&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"/>
+</p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Svenancio2&theme=tokyonight&hide_border=true&locale=pt_BR"/>
+
+### 🌐 Vamos nos conectar?
+
+<p>
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.workana.com/freelancer/SEU_WORKANA"><img src="https://img.shields.io/badge/Workana-1B93C0?style=for-the-badge&logoColor=white"/></a>
+<a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+> 💡 *"Dados sem contexto de negócio são apenas ruído."*
