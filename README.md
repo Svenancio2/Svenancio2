@@ -46,9 +46,8 @@ Sou <b>Samuel Venancio</b>, Engenheiro de Dados & Analytics focado em integrar o
 ### 🌐 Vamos nos conectar?
 
 <p>
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.workana.com/freelancer/SEU_WORKANA"><img src="https://img.shields.io/badge/Workana-1B93C0?style=for-the-badge&logoColor=white"/></a>
-<a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/samuel-venancio-a1889a204/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.workana.com/e/d0139200f485742d2d6cb062a3565e5d"><img src="https://img.shields.io/badge/Workana-1B93C0?style=for-the-badge&logoColor=white"/></a>
 </p>
 
 ---
