@@ -46,5 +46,3 @@ Sou <b>Samuel Venancio</b>, Engenheiro de Dados & Analytics focado em integrar o
 </p>
 
 ---
-
-> 💡 *"Dados sem contexto de negócio são apenas ruído."*
